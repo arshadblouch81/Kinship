@@ -1,4 +1,0 @@
-train/fd_001_1.jpg
-train/fd_002_1.jpg
-train/fd_004_1.jpg
-train/fd_005_1.jpg
